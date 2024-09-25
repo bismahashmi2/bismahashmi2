@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bismahashmi2 a student 
+- 👋 Hi, I’m @hashmihashmi a student 
 - 👀 I’m interested in ...cloud computing and AI
-- 🌱 I’m currently learning ...typescript
+- 🌱 I’m currently learning ... Next.js
 - 💞️ I’m looking to collaborate on ...python
-- 📫 How to reach me ...via gmail
+- 📫 How to reach me ...via gmail and linkedin
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...my date of birth is 9/11, a famous event in history
 
